@@ -1412,7 +1412,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #ffff06;
+    background: #981bdf;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3069,4 +3069,35 @@ header.header {
   .comments {
     padding: 10px 12px;
   }
+}
+/* 自动调整图片大小 */
+.post-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+/* 如果图片宽度小于容器宽度，不拉伸 */
+.post-body img {
+  width: auto;
+  max-width: 100%;
+}
+/* 移动设备上的图片优化 */
+@media (max-width: 768px) {
+  .post-body img {
+    margin: 1em auto;
+  }
+}
+/* 并排图片的处理 */
+.post-body p img + img {
+  display: inline-block;
+  max-width: 48%;
+  margin: 0.5em 1%;
+  vertical-align: top;
+}
+/* 暗色模式下的图片样式 */
+.dark-mode .post-body img {
+  box-shadow: 0 4px 8px rgba(255,255,255,0.1);
 }
