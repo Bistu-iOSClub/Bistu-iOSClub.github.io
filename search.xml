@@ -18,4 +18,48 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>欢迎使用iOS Club博客</title>
+    <url>/2025/10/31/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8iOS-Club%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h1 id="欢迎来到-iOS-Club-技术博客！"><a href="#欢迎来到-iOS-Club-技术博客！" class="headerlink" title="欢迎来到 iOS Club 技术博客！"></a>欢迎来到 iOS Club 技术博客！</h1><p>这是 iOS Club 社团的官方技术博客，我们在这里分享 iOS 开发相关的知识、经验和最佳实践。</p>
+<h2 id="🎯-我们的目标"><a href="#🎯-我们的目标" class="headerlink" title="🎯 我们的目标"></a>🎯 我们的目标</h2><ul>
+<li>📱 分享 iOS 开发技术文章</li>
+<li>🚀 探索 Swift 和 Objective-C 编程</li>
+<li>💡 交流移动开发经验</li>
+<li>🎓 帮助新手入门 iOS 开发</li>
+</ul>
+<h2 id="✍️-如何参与"><a href="#✍️-如何参与" class="headerlink" title="✍️ 如何参与"></a>✍️ 如何参与</h2><p>欢迎所有成员为博客贡献内容！使用我们的博客管理脚本，只需一行命令即可创建新文章：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">./blog newpage <span class="string">&quot;你的文章标题&quot;</span></span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<h2 id="🛠️-技术栈"><a href="#🛠️-技术栈" class="headerlink" title="🛠️ 技术栈"></a>🛠️ 技术栈</h2><ul>
+<li><strong>博客框架</strong>: Hexo</li>
+<li><strong>主题</strong>: NexT (Gemini)</li>
+<li><strong>部署</strong>: GitHub Pages</li>
+<li><strong>源码管理</strong>: GitHub</li>
+</ul>
+<h2 id="📚-内容主题"><a href="#📚-内容主题" class="headerlink" title="📚 内容主题"></a>📚 内容主题</h2><p>我们欢迎以下类型的文章：</p>
+<ul>
+<li>iOS 开发教程</li>
+<li>Swift&#x2F;Objective-C 语言特性</li>
+<li>UI&#x2F;UX 设计分享</li>
+<li>性能优化经验</li>
+<li>开源项目介绍</li>
+<li>学习笔记和心得</li>
+</ul>
+<h2 id="🤝-加入我们"><a href="#🤝-加入我们" class="headerlink" title="🤝 加入我们"></a>🤝 加入我们</h2><p>如果你对 iOS 开发感兴趣，欢迎加入 iOS Club！</p>
+<ul>
+<li>GitHub: <a href="https://github.com/Bistu-iOSClub">Bistu-iOSClub</a></li>
+</ul>
+<p>让我们一起学习，一起进步！🎉</p>
+]]></content>
+      <categories>
+        <category>公告</category>
+      </categories>
+      <tags>
+        <tag>iOS Club</tag>
+        <tag>公告</tag>
+      </tags>
+  </entry>
 </search>
